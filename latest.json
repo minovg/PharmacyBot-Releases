@@ -1,0 +1,12 @@
+﻿{
+    "version":  "1.2.9",
+    "download_url":  "https://github.com/minovg/PharmacyBot-Releases/releases/download/v1.2.9/PharmacyBot_Setup_v1.2.9.exe",
+    "release_page_url":  "https://github.com/minovg/PharmacyBot-Releases/releases/tag/v1.2.9",
+    "sha256":  "afbd0a39437cb25f96c4f3ea644b63cb862ee38d0aa67d1366789327ccba9838",
+    "important_changes":  [
+                              "Ξ ΟΞΏΟƒΟ„Ξ­ΞΈΞ·ΞΊΞµ Ξ±Ο…Ο„ΟΞΌΞ±Ο„ΞΏΟ‚ Ξ­Ξ»ΞµΞ³Ο‡ΞΏΟ‚ ΞΊΞ±ΞΉ Ξ±ΟƒΟ†Ξ±Ξ»Ξ®Ο‚ Ξ»Ξ®ΟΞ· Ξ½Ξ­Ο‰Ξ½ ΞµΞΊΞ΄ΟΟƒΞµΟ‰Ξ½.",
+                              "Ξ ΟΞΏΟƒΟ„Ξ­ΞΈΞ·ΞΊΞµ Ο‡ΞµΞΉΟΞΏΞΊΞ―Ξ½Ξ·Ο„ΞΏΟ‚ Ξ­Ξ»ΞµΞ³Ο‡ΞΏΟ‚ ΞµΞ½Ξ·ΞΌΞµΟΟΟƒΞµΟ‰Ξ½ ΞΌΞ­ΟƒΞ± Ξ±Ο€Ο Ο„ΞΉΟ‚ Ξ΅Ο…ΞΈΞΌΞ―ΟƒΞµΞΉΟ‚.",
+                              "Ξ¤ΞΏ Ξ΄Ξ·ΞΌΟΟƒΞΉΞΏ changelog ΞµΞΌΟ†Ξ±Ξ½Ξ―Ξ¶ΞµΞΉ ΞΌΟΞ½ΞΏ ΟƒΞ·ΞΌΞ±Ξ½Ο„ΞΉΞΊΞ­Ο‚ Ξ±Ξ»Ξ»Ξ±Ξ³Ξ­Ο‚ Ξ³ΞΉΞ± Ο„ΞΏΞ½ Ο‡ΟΞ®ΟƒΟ„Ξ·."
+                          ],
+    "mandatory":  false
+}
