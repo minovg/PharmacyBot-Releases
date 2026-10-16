@@ -1,0 +1,12 @@
+{
+  "version": "1.3.4",
+  "download_url": "https://github.com/minovg/PharmacyBot-Releases/releases/download/v1.3.4-test/PharmaGuide_Setup_v1.3.4_FINAL.exe",
+  "release_page_url": "https://github.com/minovg/PharmacyBot-Releases/releases/tag/v1.3.4-test",
+  "sha256": "f1a2a5413ef36ef1b0d57dec16122c3f2d38287fba2bfc86df70aa9b484cd96f",
+  "important_changes": [
+    "STAGING TEST ONLY: βελτιώσεις στον μηχανισμό ενημέρωσης και ασφαλές κλείσιμο της εφαρμογής πριν από την εγκατάσταση.",
+    "Βελτιώσεις στη διαχείριση SSL/certificates κατά τον έλεγχο και τη λήψη ενημερώσεων.",
+    "Καμία αλλαγή στη φαρμακευτική λογική ή στις οδηγίες δοσολογίας."
+  ],
+  "mandatory": false
+}
